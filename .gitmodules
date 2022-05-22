@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:gramanicu/pweb_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:gramanicu/pweb_frontend.git
+[submodule "dev-ops"]
+	path = dev-ops
+	url = git@github.com:gramanicu/pweb_idp.git
